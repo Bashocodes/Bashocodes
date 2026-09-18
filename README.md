@@ -1,44 +1,21 @@
 # Sharan Ramakrishna
 
-cyberyogi. Solo maker in Hyderabad, under KALAI LABS.
-I make one film, one web product, a set of tools, two native apps and a lot of songs, alone, with AI in the loop.
+cyberyogi. I make films, apps, tools and songs alone in Hyderabad, with AI in the loop.
 
-## What I make
+Everything I make lives on one page: **https://inkoji.com/cyberyogi**
 
-**Film**
-SAAKSHE, a 5:26 short made with AI. Watch it at https://youtu.be/w2P4WKBWlF4. Submitted to two festivals.
+## Open source
 
-**Web product**
-aikizi, at https://aikizi.com. 5,014 commits since October 2025 and 16,265 image decodes so far.
-44 free browser tools live at https://aikizi.com/lab.
+- **[Director Open](https://github.com/Bashocodes/director-open)**: a reel studio in the browser that people and agents can both drive. Your media never leaves the device.
+- **[Reel-HDR](https://github.com/Bashocodes/reel-hdr)**: SDR, HLG or PQ video in; a Dolby Vision 8.4 reel that survives Instagram out.
+- **[VETTU](https://github.com/Bashocodes/vettu)**: say the cut, agents make it. A film board built in one hackathon day.
+- **[Conductor](https://github.com/Bashocodes/conductor)**: replayable motion-design recipes for Adobe MCP servers.
+- **[cabinet-of-agents](https://github.com/Bashocodes/cabinet-of-agents)**: 42 role agents for a one-founder company, with approval gates.
 
-**Tools**
-- VETTU, an agentic film board built in one hackathon day: https://github.com/Bashocodes/vettu
-- Director Open, at https://director.aikizi.com
-- Conductor: https://github.com/Bashocodes/conductor
-- Reel-HDR, a Dolby Vision 8.4 pipeline. Private for now.
+All MIT.
 
-**Native apps**
-- SOTHU, iOS. Building.
-- Vāc, a macOS desk buddy. Building.
+## Also
 
-**Music**
-636 Suno songs made this month.
-
-## Next
-
-inkoji. One page where a maker's film, apps, tools, songs and HDR reels live as typed tiles. $9 a year.
-My page is the first one: https://inkoji.com/cyberyogi
-
-## Links
-
-- aikizi: https://aikizi.com
-- Lab: https://aikizi.com/lab
-- Director Open: https://director.aikizi.com
-- SAAKSHE: https://youtu.be/w2P4WKBWlF4
-- X: https://x.com/cyberyogi_
-- Instagram: https://instagram.com/_cyberyogi
-
-## Reach me
-
-hello@kalailabs.org
+- **SAAKSHE**, a 5:26 short film made with AI: https://youtu.be/w2P4WKBWlF4
+- **aikizi**, image decoding and free browser tools: https://aikizi.com
+- **inkoji**, one page for everything a maker makes: https://inkoji.com
