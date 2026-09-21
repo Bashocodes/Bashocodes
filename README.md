@@ -1,6 +1,6 @@
 # Sharan Ramakrishna
 
-cyberyogi. I make films, apps, tools and songs alone in Hyderabad, with AI in the loop.
+cyberyogi. I make images, music, videos, apps, tools with AI in the loop.
 
 Everything I make lives on one page: **https://inkoji.com/cyberyogi**
 
