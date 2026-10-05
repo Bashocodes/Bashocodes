@@ -4,6 +4,18 @@ cyberyogi. I make images, music, videos, apps, tools with AI in the loop.
 
 Everything I make lives on one page: **https://inkoji.com/cyberyogi**
 
+## What I have shipped (Oct 2025 – Oct 2026)
+
+I am a designer who builds by directing AI coding agents (Claude Code, Codex). I decide, design and verify; the agents type.
+
+- **[aikizi.com](https://aikizi.com)**: a creative-AI web product. Decode any image, video or sound into its style, then create from it. 47 free browser tools (WebGL / WebGPU), an MCP server used from ChatGPT and Claude. React + Cloudflare Workers + Supabase. 5,400+ commits.
+- **[AIKIZI for iPhone](https://apps.apple.com/us/app/aikizi/id6761009650)**: on the App Store since September 2026.
+- **[inkoji.com](https://inkoji.com)**: one page for everything a maker makes. Your own AI keeps it through MCP. Cloudflare Worker + D1 + R2.
+- **[Psst](https://kalailab.com/psst)**: a paid Mac recording app. Notarized, with Sparkle updates.
+- **[SAAKSHE](https://saakshe.com)**: a 5-minute AI short film set in 2133.
+
+6,396 contributions in the last year. Open to contract and part-time work: **https://inkoji.com/cyberyogi**
+
 ## Open source
 
 - **[Director Open](https://github.com/Bashocodes/director-open)**: a reel studio in the browser that people and agents can both drive. Your media never leaves the device.
